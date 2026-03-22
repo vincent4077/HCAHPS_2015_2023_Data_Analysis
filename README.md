@@ -1,7 +1,7 @@
 # Phân tích dữ liệu HCAHPS từ năm 2015-2023
 ## Các số liệu cần lưu ý:
 
-## 1. Phân tích dữ liệu theo cấp quốc gia
+## 1. Phân tích dữ liệu theo cấp quốc gia.
 <p align=center>
   <img width="392" height="709" alt="image" src="https://github.com/user-attachments/assets/846c511e-7a44-426f-8af2-2f20e0dfc166" />
 </p>
@@ -15,4 +15,11 @@ Với biểu đồ phân bố đánh giá, có thể thấy hầu hết đánh g
 <p align=center>
   <img width="385" height="717" alt="image" src="https://github.com/user-attachments/assets/27cb8099-e05f-4621-b65b-10d42b2f118f" />
 </p>
+Đây chính là bảng đánh giá trải nghiệm người dùng. Bảng này được tính dựa trên chỉ số đo lường Net Satisfaction được tính bằng công thức sau:
+$NSAT = %Tích cực - %Tiêu cực$
+Khi tính bằng chỉ số này ta sẽ bỏ qua những lựa chọn trung lập, tập trung vào hai lựa chọn chính là tích cực và tiêu cực. Bằng cách này chúng ta sẽ có thể nhìn thấy trải nghiệm người dùng thông qua hai chỉ số mà không phiến diện từ một chỉ số tiêu cực duy nhất.
+Có thế thấy rằng nếu so sánh dựa trên chỉ số NSAT thì khía cạnh có trải nghiệm tệ nhất là giao tiếp về thuốc (H_COMP_5) và xuất viện (H_COMP_7). Trong khi đó vấn đề về thông tin xuất viện (H_COMP_6) lại có chỉ số trải nghiệm đứng thứ 3, và đứng kế cuối nếu chỉ xét riêng đánh giá tiêu cực. Ngoài ra một khía cạnh cũng cho chỉ số trải nghiệm khoảng 50 đó chính là chỉ số tiếng ồn. Tuy vậy, điều này khá là hợp lý vì trong môi trường bệnh viện, tiếng ồn là thứ khó tránh khỏi.
 
+**Kết luận:** Đánh giá tổng quan theo cấp quốc gia trải nghiệm của bệnh nhân có xu hướng ổn định qua từng năm. Gần như các đánh giá đều là đánh giá tích cực tuy nhiên nếu xét trên từng khía cạnh ta cần phải chú ý đến H_COMP_5 và H_COMP_7. Để có một cái nhìn cụ thế hơn ta cần phải đi tới so sánh trải nghiệm từng khía cạnh giữa các bang.
+
+## 2. Phân tích dữ liệu theo cấp bang.
