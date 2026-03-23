@@ -5,7 +5,9 @@
 <p align=center>
   <img width="392" height="709" alt="image" src="https://github.com/user-attachments/assets/846c511e-7a44-426f-8af2-2f20e0dfc166" />
 </p>
-Biểu đồ này cho ta thấy sự biến động của đánh giá tích cực và đánh giá tiêu cực qua từng năm. Có thể thấy rằng với các đánh giá tích cực sẽ chiếm khoảng 70-72% và đánh giá tiêu cực chiếm khoảng 6-8% qua từng năm cho thấy trải nghiệm của bệnh nhân qua từng năm rất ổn định, không có biến động trong những năm từ 2013 đến 2022. Nhìn về mặt xu hướng, có sự biến động nhẹ trong báo cáo năm 2022 và năm 2023 điều này có thể là hệ quả do ảnh hưởng từ đại dịch COVID-19. Tóm lại biểu đồ thể hiện sự ổn định của y tế Mỹ nhưng đồng thời cũng cho thấy trong trải nghiệm không có cải thiện đáng kể.
+Biểu đồ thể hiện xu hướng đánh giá trải nghiệm bệnh nhân tại các bệnh viện Hoa Kỳ theo từng năm. Kết quả cho thấy tỷ lệ đánh giá tích cực duy trì ở mức cao và khá ổn định, dao động khoảng 70–72% trong giai đoạn 2015–2021. Trong khi đó, tỷ lệ đánh giá tiêu cực chỉ chiếm khoảng 7–9%. Khoảng cách lớn giữa tỷ lệ đánh giá tích cực và tiêu cực cho thấy phần lớn bệnh nhân có trải nghiệm tốt với dịch vụ bệnh viện tại Hoa Kỳ.
+Tuy nhiên, từ năm 2022 đến 2023 có thể quan sát thấy một sự thay đổi nhẹ: tỷ lệ đánh giá tích cực giảm trong khi đánh giá tiêu cực tăng lên. Sự thay đổi này có thể liên quan đến những tác động kéo dài của đại dịch COVID-19 đối với hệ thống y tế, bao gồm áp lực quá tải bệnh viện và chất lượng dịch vụ bị ảnh hưởng.
+Nhìn chung, kết quả cho thấy trải nghiệm bệnh nhân tại các bệnh viện Hoa Kỳ tương đối ổn định trong nhiều năm, tuy nhiên xu hướng gần đây cho thấy dấu hiệu suy giảm nhẹ về mức độ hài lòng của bệnh nhân.
 
 <p align=center>  
   <img width="538" height="718" alt="image" src="https://github.com/user-attachments/assets/0b9c4da6-5f29-4856-b1e1-765b81d3d194" />
@@ -33,5 +35,20 @@ Vì bộ dữ liệu không đi sâu vào từng câu hỏi một vì vậy chú
 Trước hết xem xét về tổng quan ta có thể thấy trong biểu đồ nhiệt, nổi bật nhất chính là District of Columbia có màu đỏ nhất và kéo dài qua từng năm. Điều này thể hiện trải nghiệm tệ của bang này qua từng năm và không có sự cải thiện. Ngoài ra còn có nhiều bang khác cũng có tình trạng kéo dài tương tự ví dụ như NJ, NY, NV,... Nhìn vào mặt khác các bang có trải nghiệm tốt cũng luôn giữ vững trải nghiệm qua các năm và không có sự biến động lớn. Để có một cái nhìn rõ ràng hơn về sự thay đổi trải nghiệm chăm sóc sức khỏe theo thời gian, ta sẽ tới với biểu đồ tiếp theo.
 
 <div>
-  
+  <img width="459" height="345" alt="image" src="https://github.com/user-attachments/assets/f6115bc7-2ebf-46c3-9d88-2af52f5b0b47" />
+  <img width="451" height="367" alt="image" src="https://github.com/user-attachments/assets/e8cc0ab9-69d8-44ae-afd6-2ee7128b409e" />
 </div>
+
+Kết quả cho thấy sự khác biệt rõ rệt về trải nghiệm bệnh nhân giữa các bang. Nhóm các bang có mức Net Satisfaction cao nhất duy trì giá trị khoảng 68–73, trong khi nhóm thấp nhất chỉ đạt khoảng 45–60, tạo ra khoảng cách trung bình khoảng 20–25 điểm.
+
+Các bang có trải nghiệm tốt nhất có xu hướng tăng nhẹ từ 2015 đến khoảng 2020–2021 trước khi giảm nhẹ trong giai đoạn 2022–2023, nhưng nhìn chung mức độ biến động tương đối nhỏ. Ngược lại, nhóm bang có trải nghiệm thấp duy trì mức hài lòng thấp hơn đáng kể trong toàn bộ giai đoạn nghiên cứu, trong đó District of Columbia thường xuyên là bang có giá trị thấp nhất.
+
+Ngoài ra, cả hai nhóm đều cho thấy xu hướng giảm nhẹ trong giai đoạn 2022–2023, cho thấy có thể tồn tại các yếu tố hệ thống ảnh hưởng đến trải nghiệm bệnh nhân trên toàn quốc.
+<div>
+  <img width="381" height="324" alt="image" src="https://github.com/user-attachments/assets/d2175613-ace8-4dfd-b509-dfdaa4cda070" />
+  <img width="383" height="322" alt="image" src="https://github.com/user-attachments/assets/37e8bb10-27c8-4fa7-98aa-02f167e9e44a" />
+</div>
+
+Hai biểu đồ thể hiện 10 bang có mức độ hài lòng cao nhất và thấp nhất dựa trên chỉ số Net Satisfaction. Kết quả cho thấy các bang có mức hài lòng cao nhất chủ yếu thuộc khu vực Trung Tây như Nebraska, South Dakota, Minnesota và Iowa với chỉ số khoảng 65–72. Ngược lại, các bang có mức hài lòng thấp nhất bao gồm California, New York, New Jersey và District of Columbia với chỉ số chỉ khoảng 48–60.
+
+Sự khác biệt này có thể phản ánh tác động của mật độ dân số và áp lực lên hệ thống bệnh viện. Các bang đông dân thường phải đối mặt với tình trạng quá tải bệnh viện, thời gian chờ lâu và nguồn lực y tế hạn chế, từ đó ảnh hưởng đến trải nghiệm của bệnh nhân. Khoảng cách khoảng 10–15 điểm giữa hai nhóm cho thấy sự chênh lệch đáng kể về chất lượng trải nghiệm chăm sóc y tế giữa các bang.
