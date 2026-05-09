@@ -5,7 +5,7 @@
 ![Healthcare](https://img.shields.io/badge/Sector-Healthcare-green?style=flat-square)
 
 ## 📝 Giới thiệu dự án
-Dự án này thực hiện phân tích chuyên sâu về sự khác biệt trong trải nghiệm của bệnh nhân nội trú giữa các bang tại Hoa Kỳ. Dựa trên bộ dữ liệu **HCAHPS** (Hospital Consumer Assessment of Healthcare Providers and Systems), chúng tôi tìm kiếm các xu hướng, sự phân hóa vùng miền và các điểm nghẽn trong chất lượng dịch vụ y tế.
+Dự án này thực hiện phân tích chuyên sâu về sự khác biệt trong trải nghiệm của bệnh nhân nội trú giữa các bang tại Hoa Kỳ. Dựa trên bộ dữ liệu **HCAHPS** (Hospital Consumer Assessment of Healthcare Providers and Systems), chúng tôi tìm kiếm các xu hướng, sự phân hóa vùng miền và các điểm nghẽn trong chất lượng dịch vụ y tế. Chi tiết báo cáo xem file `HealthCareReport.docx`
 
 ---
 
@@ -74,7 +74,7 @@ HCAHPS là thước đo vàng quốc gia nhằm đánh giá khách quan chất l
 ---
 
 ## 📸 Dashboard Preview
-*(Hướng dẫn: Bạn hãy chụp ảnh Dashboard của mình, lưu vào thư mục `images` và thay đổi đường dẫn dưới đây)*
+
 
 ![National Overview](https://via.placeholder.com/800x450.png?text=Place+Your+Dashboard+Screenshot+Here)
 
