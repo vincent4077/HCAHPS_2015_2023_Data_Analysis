@@ -76,8 +76,14 @@ HCAHPS là thước đo vàng quốc gia nhằm đánh giá khách quan chất l
 ## 📸 Dashboard Preview
 
 
-![National Overview](https://via.placeholder.com/800x450.png?text=Place+Your+Dashboard+Screenshot+Here)
+![National Overview](Images/National.png)
+
+
+![State Analysis](Images/State.png)
+
+
+![Comparition](Images/Comparition.png)
 
 ---
-*Dự án được thực hiện bởi [Tên của bạn]*
-*Kết nối với tôi qua [Link LinkedIn của bạn]*
+*Dự án được thực hiện bởi Vũ Quang Vinh*
+*Kết nối với tôi qua [Vũ Vinh](https://www.linkedin.com/in/vinh-v%C5%A9-086122354/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK5iGBJuoTNa1GR2Q8hkJbw%3D%3D)*
